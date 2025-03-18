@@ -1,9 +1,23 @@
 {{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
 {{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
-{{- $latestPages := first 10 $sortedPages -}}
+{{- $latestPages := first 100 $sortedPages -}}
 
 <aside data-pagefind-ignore="all">
-    {{- range $latestPages -}}
-        {{- partial "display-page-box-recently-changed.html" . -}}
-    {{- end -}}
+    <div class="tri-column">
+        <ul>
+            {{- range $latestPages -}}
+            <li>
+                <a href="{{- .RelPermalink -}}">
+                    {{- with .LinkTitle -}}
+                        {{- . | safeHTML -}}
+                    {{- else -}}
+                        {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                    {{- end -}}
+                </a>
+                {{- $diff := now.Sub .GitInfo.AuthorDate -}}
+                <ul>Updated {{ math.Round $diff.Hours }} hours ago</ul>
+            </li>
+            {{- end -}}
+        </ul>
+    </div>
 </aside>
