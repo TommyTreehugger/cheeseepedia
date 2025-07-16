@@ -144,6 +144,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -161,6 +162,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
@@ -253,6 +255,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -270,6 +273,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
@@ -325,6 +329,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -342,6 +347,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
@@ -415,6 +421,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -432,6 +439,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
