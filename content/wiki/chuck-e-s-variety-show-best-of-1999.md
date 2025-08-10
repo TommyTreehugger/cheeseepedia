@@ -2,10 +2,11 @@
 draft = false
 title = "Chuck E's Variety Show - Best of 1999"
 startDate = "2000-01-00"
-endDate = "2000-04-00"
+endDate = "2002-12-00"
 pageThumbnailFile = "uDsVmoVLrg1XCX13a2WP.avif"
 contributors = ["Documentor", "The 64th Gamer", "Ceclife13", "John95", "Cy's Junk at School"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|CEC-Stage SVHS w/ Signals"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Karlissa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
