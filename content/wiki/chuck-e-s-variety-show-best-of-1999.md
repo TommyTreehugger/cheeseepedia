@@ -10,8 +10,8 @@ showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVH
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Chuck E's Variety Show (January 2000)** released January 2000 and ran until April 2000. This was also used as a generic show which was valid from January 2000 - December 2002.
-Featured 13 segments for Existing and 14 segments for Studio C which use various songs from January, April and August 1999. Which is why this show is also known as Best of 1999.
+**Chuck E's Variety Show **, which is also known as Best of 1999, released in January 2000 and ran through March 2000. This show was stored as a generic show and could be played as a backup until the release of Best of CEC TV 2003.
+This show featured songs reused from January, April and August 1999, as well as intermissions from various years. 
 
 ## Existing Show List:
 
@@ -48,7 +48,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 13. **Segment 7**
     1.  Hip Mouse (Parody of [Brick House](https://en.wikipedia.org/wiki/Brick_House_(song)))
 14. **Intermission 7**
-    1.  Larry The Technician - 'Curtain Fix'
+    1.  Larry The Technician - 'Curtain Problems'
 15. **Segment 8**
     1.  Pizza Serenade
 16. **Intermission 8**
@@ -71,12 +71,12 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
     3.  We Sail The Ocean Blue
 22. **Intermission 11**
     1.  Name That Cheese
-    2.  Larry The Technician - 'Just Hang In There'
+    2.  Larry The Technician - 'Video Feed'
     3.  CEC TV ID - 'Cows'
 23. **Segment 12**
     1.  We All Love Music
 24. **Intermission 12**
-    1.  Clowning Around
+    1.  Clowns Making a Sandwich
 25. **Segment 13**
     1.  We Are The Same
 26. **Intermission 13**
@@ -100,7 +100,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 5.  **Segment 3**
     1.  Disco Chuck (Parody of [Disco Duck](https://en.wikipedia.org/wiki/Disco_Duck))
 6.  **Intermission 3**
-    1.  The Lonesome Cowboy
+    1.  The Singing Cowboy
 7.  **Segment 4**
     1.  Safety Pin (Parody of [Safety Dance](https://en.wikipedia.org/wiki/The_Safety_Dance))
 8.  **Intermission 4**
@@ -114,17 +114,17 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 11. **Segment 6**
     1.  Tokens To Ride (Parody of [Tickets To Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(song)))
 12. **Intermission 6**
-    1.  Larry The Technician - 'Introduction 2'
+    1.  Introducing Larry The Technician
     2.  Ratings
     3.  CEC TV ID - 'Cows'
 13. **Segment 7**
     1.  Hip Mouse (Parody of [Brick House](https://en.wikipedia.org/wiki/Brick_House_(song)))
 14. **Intermission 7**
-    1.  Larry The Technician - 'Curtain Fix'
+    1.  Larry The Technician - 'Curtain Problems'
 15. **Segment 8**
     1.  Pizza Serenade
 16. **Intermission 8**
-    1.  Super Jasper - 'Jumping the Cadillac Ranch'
+    1.  Super Jasper - 'Cadillac Ranch'
     2.  Pondwatch
     3.  CEC TV ID - 'Cows'
 17. **Segment 9**
@@ -139,48 +139,51 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
     3.  CEC TV ID - 'Cows'
 21. **Segment 11**
     1.  Cheese Pizza Is Pure Delight (Parody of [Cheeseburger in Paradise](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
-22. **Intermission 11**
-    1.  Name That Cheese
-23. **Segment 12**
+22. **Segment 12**
     1.  Boat of Love
     2.  We Sail The Ocean Blue
-24. **Intermission 12**
-    1.  Larry The Technician - 'Just Hang In There'
-    2.  CEC TV ID - 'Cows'
-25. **Segment 13**
+23. **Intermission 11**
+    1.  Name That Cheese
+    2.  Larry The Technician - 'Video Feed'
+    3.  CEC TV ID - 'Cows'
+24. **Segment 13**
     1.  We All Love Music
-26. **Intermission 13**
-    1.  Clowning Around
-27. **Segment 14**
+25. **Intermission 12**
+    1.  Clowns Making a Sandwich
+26. **Segment 14**
     1.  We Are The Same
-28. **Intermission 14**
+27. **Intermission 13**
     1.  I Like This Game
     2.  Baking With Betty - 'Vegetable Medley'
     3.  CEC TV ID - 'Cows'
 
 ## Lives:
 
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+**During this time live shows would be on separate VHS tapes for MMBB based stores. This show's lives were included on a separate Disc 3 for Studio C.**
 
-- Birthday Star 95'
-- Celebration
-- Chuck E. March
-- Havin' A Party
-- Chuck E's Fiesta Mexicana
 - Chuck E. Says
 - Chuck E. Shuffle
-- Patriotic Live
+- Chuck E.'s Fiesta Mexicana
+- Chuck E. March
+- Patriotic
 - America
+- Havin' a Party at Chuck E.'s Place
+- Spanish Birthday
+- Birthday Star 1998
 - Chuck E. Swing
-- Give My Regards to Broadway
 - Rockin' Christmas Eve
+- Celebration (with 5 minute countdown)
 
-**Birthday Break**: Chuck E.'s Variety Show logo with music set to a 1 minute, 2 minute or 3 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Chuck E.'s Variety Show logo with music set to  play for 1 minute, 2 minutes or 3 minutes. This would then lead into the Birthday show.
 
 ## Trivia:
 
 - This show replaces {{< wiki-link "Best of CEC TV 1993" >}} as the emergency backup show for Existing Stages.
-- 'Chuck E.'s Dance Party', 'Dancin' and Singin'', 'Hip Mouse', 'Pizza Serenade', 'Chuck E. Town', and 'Let's Dance' are all from {{< wiki-link "Dance Party 1999" >}}, 'Disco Chuck', 'Safety Pin', 'Rockin' Robin', 'Tokens To Ride', are all from Terrific Time Travel|January 1999, and 'Cheese Pizza Is Pure Delight', Boat of Love', 'We Sail The Ocean Blue', and 'We All Love Music' are from Fabulous World Adventure|August 1999.
-- This is the first show to feature the Baking with Betty and Clowns Making a Sandwich intermissions on the Existing Stage version. Previously, they were only on the Studio C version of Fabulous World Adventure.
-- This is the last showtape with the original backdrop for the puppets with random paints thrown at a wall. The next showtape {{< wiki-link "Just for Kids Show 2000" >}} would feature the mostly solid colored backdrops which would be used from April 2000 - September 2011.
-- Intermission 12 and Intermission 11 are different for both Existing and Studio C. Existing plays 'Cheese Pizza Is Pure Delight' then 'Boat of Love' and 'We Sail The Ocean Blue' while Studio C goes 'Cheese Pizza Is Pure Delight' then Intermission 11 'Name That Cheese' then plays 'Boat of Love' and 'We Sail The Ocean Blue'. Book Your Party Online is also exclusive to Existing stage tapes. 'Cheese Pizza Is Pure Delight' and 'Hip Mouse' are both sang by Chuck for Studio C while Jasper and Munch sing for Existing stages.
+- 'A Day At The Movies' is from July 1994 Show. 'Laugh Tracks', Chuck E.'s Big Bowling Date' and 'The Virtuoso' are from September 1994. Will Frye The Nutrition Guy, The Announcer, Pondwatch, Name That Cheese, and Larry The Technician - 'Video Feed' are from Studio C Premiere. 'Introducing Larry The Technician' and 'I Like This Game' are from September 1998. 'Disco Chuck', 'Safety Pin', 'Rockin' Robin', and 'Tokens To Ride' are from January 1999. 'Chuck E.'s Dance Party', 'Dancin' and Singin'', 'The Singing Cowboy', 'Ratings', 'Hip Mouse', 'Pizza Serenade', 'Super Jasper - 'Cadilac Ranch'', 'Chuck E. Town', 'Super Jasper - 'Staring Contest', 'Let's Dance', and 'Memories Are Forever' are reused from April 1999. 'Drawing Chuck E.', 'Cheese Pizza is Pure Delight', 'Boat of Love', 'We Sail The Ocean Blue', 'We All Love Music', 'Clowns Making a Sandwich', 'We Are The Same' and 'Baking With Betty - 'Vegetable Medley' are from August 1999. The 'Book Your Party Online' promo is from Holiday 1999.
+- No previous puppet footage was reused for this show. Instead, all new puppet footage was recorded for all songs including those that did not originally have it.
+- This is the first show to feature the Baking with Betty and Clowns Making a Sandwich intermissions on Existing Stages. Previously, they were only on the Studio C version of Fabulous World Adventure. 
+- This is the second and final showtape with the original backdrop for the puppets with random paints thrown at a wall. {{< wiki-link "Just for Kids Show 2000" >}} would begin using mostly solid colored backdrops which would be used in many shows until January 2014.
+- On Existing Stages, 'Cheese Pizza Is Pure Delight' and 'Boat of Love' / 'We Sail The Ocean Blue' are together as one segment, while they are separated on Studio C.
+- The Existing Stage version of the show has a few seamless transitions between segments and intermissions. These are not present on Studio C.
+- Like in their original showtapes, 'Cheese Pizza Is Pure Delight' and 'Hip Mouse' are both sang by Chuck for Studio C while Jasper and Munch sing for Existing Stages.
+- Chuck E. sings background vocals for 'Pizza Serenade' for both versions of the show. This was previously only on the Studio C version of April 1999. 
