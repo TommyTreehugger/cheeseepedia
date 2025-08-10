@@ -7,7 +7,7 @@ pageThumbnailFile = "uDsVmoVLrg1XCX13a2WP.avif"
 contributors = ["Documentor", "The 64th Gamer", "Ceclife13", "John95", "Cy's Junk at School"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|CEC-Stage SVHS w/ Signals"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Karlissa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
-showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -29,7 +29,7 @@ This show featured songs reused from January, April and August 1999, as well as 
 5.  **Segment 3**
     1.  Disco Chuck (Parody of [Disco Duck](https://en.wikipedia.org/wiki/Disco_Duck))
 6.  **Intermission 3**
-    1.  The Lonesome Cowboy
+    1.  The Singing Cowboy
 7.  **Segment 4**
     1.  Safety Pin (Parody of [Safety Dance](https://en.wikipedia.org/wiki/The_Safety_Dance))
 8.  **Intermission 4**
@@ -43,7 +43,7 @@ This show featured songs reused from January, April and August 1999, as well as 
 11. **Segment 6**
     1.  Tokens To Ride (Parody of [Tickets To Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(song)))
 12. **Intermission 6**
-    1.  Larry The Technician - 'Introduction 2'
+    1.  Introducing Larry The Technician
     2.  Ratings
     3.  CEC TV ID - 'Cows'
 13. **Segment 7**
@@ -53,7 +53,7 @@ This show featured songs reused from January, April and August 1999, as well as 
 15. **Segment 8**
     1.  Pizza Serenade
 16. **Intermission 8**
-    1.  Super Jasper - 'Jumping the Cadillac Ranch'
+    1.  Super Jasper - 'Cadillac Ranch'
     2.  Pondwatch
     3.  CEC TV ID - 'Cows'
 17. **Segment 9**
@@ -175,7 +175,7 @@ This show featured songs reused from January, April and August 1999, as well as 
 - Rockin' Christmas Eve
 - Celebration (with 5 minute countdown)
 
-**Birthday Break**: Chuck E.'s Variety Show logo with music set to  play for 1 minute, 2 minutes or 3 minutes. This would then lead into the Birthday show.
+**Birthday Break**: Chuck E.'s Variety Show logo with music set to  play for 1 minute, 2 minutes or 3 minutes leading into the Birthday show.
 
 ## Trivia:
 
